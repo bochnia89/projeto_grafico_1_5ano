@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.378" height="43.664" viewBox="0 0 65.378 43.664">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_482" data-name="Retângulo 482" width="28.32" height="34.32" transform="translate(5.76 9.12)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 30 35">
+      <image width="30" height="35" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAjCAYAAACD1LrRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQbSURBVFhHxZdtaFZlGMf3PPNtacMtNWKTnGymNsnKMpKIBDG/ZX0QHURQEYgoCH4QzA8V+EEQFAlKBRM0BCkhQfO11phYii+zojbXiw7KvVjTnFvZ/P0edh42d87znDMV//DjPtvzPOd/rvu+ruu+T6q3t7fgfmjIxqve+ijd0tI6issRcGP289XdK959JfbN0n1jIi1Z8MEITMdz+RS8AJUn6s8X+VlcJYp4Wc2mdEdH52guy+BJeBHGwtewv6ho5KVtn636j+u8imW8ZcOB1LFDJ53SUpgCz4GRzgBnrRZ2wPGX5s26+vbKl/PeNK8xURYS5RguJ8LTMKdvnATFYISNsBv2QPOu/Wv+ZcypSON1q3enGs40juTyIZgGGspUGAd+lgJv8Bd8A9uhdsbMqiur1y3KGVFocr356vphmLp2j8F8WAKvwTPwCJjN/lZjcUZ8uGehnN+6LDk1IOK1y7enmhovedMJ8DgYoevpAxi5NwzM+subXIUTYNSHK6vK297b9Mb/XIcqGzF1WYhpCZfTYQHUwEKYBQ+DUxtEGaYHoApmwyTu5fcjlTWmLi0To9RsMcyFyfAgFEKUofIzv+PaW9tPQKmJyRiqjPGOD4/6Q5+wHKxPH8AGETW1YfI7NpFKsNSmWfPbNh4M/W3G+PWlc12jf+AXsDSuwE1IKu/nchm1+VF+5MC3wxkHKTvVJMMNhgtgFzoNmkcmR4SMTiM7mxleDcUmLeMAZY3NQFqe9XgGjsKPcA2GYm6+WAmW38SwRMsaK/qsHecPOA62wd+gG3I2g9uk8TCwJO1wJlqJfZ4xqwF/KHqtU/4raGxdXgbbYhJzFSSa5VVBotkfshpkbIMvKxvvFP8ATvlZ+BuSTLlRW0o2HSOeCePoiNnyGmSs1m995ybr3c7lKTgGZnoXJJ1y17YCjLqqq6vbJpNRqLFivXsYWqAe6uAi+L8k5t7fnu/2aYlNcB9gjDZW7DJG2QRG/R20gfUd19yobUJBY6og6kyG5zR2aystLXZ9G0Dz8+BmkHTKg/086Pm5jdXmncuNsBWM2OZik0my3kGiaSjpnR9/lcprrDhRWMuW2BEw03+HpOvtA0hGsYwV9X2d4Sc4CCabjWYo/Tyj2MYR9d0JSVtqRrGNVUh9u97ORJDpsac+kbHqV98e7r4ENxX/djZsrc5A3gdIbKx4XTGr7WZ74RP4HNxYmsHt1IfL+QBDMvYdCXPr+XvYB5pvhU/BzPf/f4IPGLrBxHqTyCU2+TT7rZu/e7BnrkfBo66HAM/gdi0/+xl8uH2UZ/sdGwfa+P7e1LnTjYW0RLc/jz8a+rrjqdW3jg74Auow7rxrxv3V93Jnl/KE6oHAlwCNrIIWjHvuiXGgvtcgd6PgtNqjqZ/dU+NoFRTcAso/Y4jVM7QxAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_772" data-name="Caminho 772" d="M8.331,19.9,20.1,36.078l10.2,4.268a.729.729,0,0,0,1.009-.674l-.029-10.137L21.251,11.56Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-0.175" y1="1.548" x2="-0.141" y2="1.548" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f89320"/>
+      <stop offset="1" stop-color="#f27c20"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_487" data-name="Retângulo 487" width="30.96" height="34.56" transform="translate(3.12 4.8)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 32 35">
+      <image width="32" height="35" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAjCAYAAAD17ghaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAARqSURBVFhHxZdbbFRVFIanLaXU4tgMLQgt0WKraEERUbAqBg0JJBpNNSEBHjQq+kAwmiAv6oOXF0k0EB+0aiRGJLwoDyZgUEFRFG8kSL1B44VWKcUaK1gr0vH7JnMm084wc87UxJV8ObtnTs/699prrb1PWTKZjP2fVpKAR9dsKj98qHs8QznV3NI49NjGO4ZTP0a08vQ1tN237JlxOE8wbIU2mMnfNf5WioWOwAtP7yjbtfMzZ3wuzAWdT4Mv4M14vKbrua0P/MM4koWKwOoVGytwHmd4ISyFlXALLITrYNbAwMmJXCNbwQhkzboOLoZrYBFcAueA9hO8AZuqq6u+e+n1tZGicMYIPLSqozxr1othOdwGl4M5UJlmClwBrYODQzUbHt9Wxji05RVwV/v6yu4jxyYzvBLaQeeKaAFDXQGBo2rwvs9O3bf34DhvhrURS8CsK3Csg0YwyW6EOWCynQUKHj1DX/AXfAId8Hbj9MnHn+pYFaosMxFYvvSJCThvYOg6m2R3grOeAaNnnW3eqwKXyoRs5j0TuIaylACc+4LzQIcrwAyfDbVgSIutq7/77GVgxOpYRgUXtSACrmMz3ADOwlnbXPKFPJ8FUWiC+dBCQrpkRS0QcBr+BtfNzI6USGkLomDkbFRTiELR96QEUL+DXLpgHxyCkxDVFGDPmA5XwUyiMHFzx+6CEUwJSDePo/AR7AGbixGJulPpzN7hPjEPpu15Z3/BKARLEJvfNiuIwnvwKfRDKQJ0OBXsC0VbdEbA/Y/cmkwk4n8wPAi74Gv4E0oRYQJfBKnmVCgXMgK0ZzevOV1VVdnHcC/shO/BJhNFRBAFW/QCmEsuxJ9ctyVvLowQoL28bd0pLj3wLrwPv4D3oooIWrRl3dR5oMsyzbEcAdqixfOGuJgPLoX7/W8Q9cTju7ObU4JtPcdfXgH3PLgkWV9f+ztDnSviW7A0o4gwCvaU88GybOrvHzAqIyyvAG3DK6v/i9JUhOcGo2BzymnRZxSgUZomoIm4Gz6GY2DXDGsKsDkFUchp0QUFWJoNDfWWZie4FAfgBJQSBU9RRqKOzS9TlgUFaOtfvNcZ/wqfg5EwIlGXQocmpIccO2XGb1EB2mvbH9ZhN3wALsVxUFgxEf7ucy7lANhdTebM/4USoLVdP8euaDW8BUajWGkGzn8GRX8IX0F/66UXZA6uBU/Fo23t3c+X9/T0eTy7CZaBB9SzIXsivlAHirOfWEVb4Rs4Ar1E1MaWstAR0MiH4XSr9qV2yR9BJzoN8G+7p4nrfnIYvkxzNNu5FkmAdvPtC82HH0ABnh96QafuplaI6+xuugVeBZ/r9cyB85xvhsgC2ldebWnqyPV0vzAfjIQlqqD94Ga2A/xgUUDfgmtn582XSDmQbXS08TQVj+9+nnkMcwOzc9rp3Ec63d4Tk+KxQl/OJQvQ0qdpP1brwTKzMozqECE/EeYzbUwCNA8bRMJGM9zc0phKsEn1taku6riYjVnA2CwW+xeU5XT4PbKbgwAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <clipPath id="clip-path-4">
+      <rect id="Retângulo_490" data-name="Retângulo 490" width="22.56" height="20.4" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 23 21">
+      <image width="23" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAVCAYAAACt4nWrAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAK/SURBVEhLrZVLSFRhGIZnTpZNF8MxgxyJJMcuZLmQWhSki8qIAqNVboKyNtEicBG0qqDAVeKmqFVM1EYLuiARGGlQhkVWWiKVJTlNzFBeJs2anvd4zmGu5kAfPMx/zvnP+3/nu407Fou5srHApXZ3JDzqZili+d5FsbojVWlFZiV+rK7JCId/zGW5ABaCB3T9EyIeT+7IlZaGKdYJNqO4JSqhfCiCEii2rnMhAi/hOQcEkw9IK65Pv9PaMY+lF1bBRiiHMlgG8n4OfIdn0AKdpf7iyOmmg45givi5kzfcPS/69fIKqIQtUAHyeAnoUAMU80n4CLfgOvReu3dKoTItQbzh8EVjaCiUx3INVFmsg6UQL2qbXh6FLrgKbV5vXrA5cPwPa3OzaRfO3HQjvJilPn8v1MImWA7zQWGIF7ZNOfHDZighR9prmiP+5PEre9NOqAF5rDBkEpXpvp4XgPKi8BUc2teoe9Pi1kUh6PRtUAoqu+QwpDM9V+UoRxugKBqdUJlOi3Mhr1UVEpf3tnA2lgMKiXJjOmQ0n7+thZK41kKhyEZYSZ2Az9ALw/ALnM9WIn2g2OmT/hUK22zhQeiAThiu3l75m1/HQ3XWOGijHiQWf6rpucpN77yHh9AGfT5f4Vj9iRrzfUODh1+1sT7pLYzATOJ6JgfUnW/gLrRCNzUeabx81KxxmWFNNAn2wCPoB3mUfICu9aI68As8BYmq9bvw+BvNY4bDNqdDD+w6q5ZfD/thD6wEZV6mTUqSnPgA3aD4aq4MMlPGmSmOx7Y5VVFe4Ze38rod1M5fQfckqArogwcQsLgPA7trt46lE5YlzBaaKYeaV7tXww7QmJX4JxiA1/AOQsQ3as+QTJYyFQmPuk2iq0H1L/EghEB/DFHmdkJsM1mKuIwDVOv2sFKZTpKwqfhKmI2lFf8/5nL9Bf+j9VFgB34SAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <clipPath id="clip-path-5">
+      <path id="Caminho_774" data-name="Caminho 774" d="M14.272,2.327a13.949,13.949,0,0,0-6.752,2.4,11.353,11.353,0,0,0-4.789,5.805,2.179,2.179,0,0,0,.274,2.048L4.349,14.43l2.143,2.943a15.772,15.772,0,0,0,7.555-2.82,15.76,15.76,0,0,0,5.664-5.76L17.784,5.328l-.008,0c-.044-.09-.091-.18-.141-.271l-.75-1.347a2.712,2.712,0,0,0-2.366-1.4c-.082,0-.164,0-.247.011" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-0.223" y1="2.834" x2="-0.158" y2="2.834" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#50a045"/>
+      <stop offset="1" stop-color="#89b53e"/>
+    </linearGradient>
+    <clipPath id="clip-path-6">
+      <path id="Caminho_775" data-name="Caminho 775" d="M14.272,2.327a13.949,13.949,0,0,0-6.752,2.4,11.347,11.347,0,0,0-4.8,5.836,2.158,2.158,0,0,0,.286,2.017.466.466,0,0,0,.289.189c1.9.362,5.015-.488,8.076-2.367,2.777-1.7,4.818-3.83,5.574-5.6a1.243,1.243,0,0,0-.059-1.094,2.712,2.712,0,0,0-2.366-1.4c-.082,0-.164,0-.247.011" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-0.385" y1="3.398" x2="-0.294" y2="3.398" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3f8039"/>
+      <stop offset="1" stop-color="#4d9f48"/>
+    </linearGradient>
+    <clipPath id="clip-path-7">
+      <path id="Caminho_777" data-name="Caminho 777" d="M14.047,14.553a15.765,15.765,0,0,1-7.554,2.82L8.331,19.9c1.9.039,4.691-.921,7.44-2.7a14.824,14.824,0,0,0,5.48-5.637L19.709,8.8a15.743,15.743,0,0,1-5.662,5.758" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="-0.718" y1="2.928" x2="-0.63" y2="2.928" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7d3e7"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-path-8">
+      <path id="Caminho_779" data-name="Caminho 779" d="M7.262,18.431l.394.541C14.41,18.1,19.312,12.4,20.725,10.629l-.31-.556c-1.132,1.46-6.167,7.62-13.153,8.358" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="-1.034" y1="3.154" x2="-0.925" y2="3.154" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a19ece"/>
+      <stop offset="1" stop-color="#c4c0e1"/>
+    </linearGradient>
+  </defs>
+  <g id="pv_atividades" transform="translate(-404 -198.776)">
+    <path id="Caminho_768" data-name="Caminho 768" d="M35.528,13.939a14.959,14.959,0,0,0-20.545,5.046" transform="translate(404 199)" fill="none" stroke="#de3986" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path id="Caminho_769" data-name="Caminho 769" d="M37.489,14.926A14.959,14.959,0,0,0,57.394,7.76" transform="translate(404 199)" fill="none" stroke="#ffbf00" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path id="Caminho_770" data-name="Caminho 770" d="M35.528,13.939a14.959,14.959,0,0,0-20.545,5.046" transform="translate(404 199)" fill="none" stroke="#ec6721" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <path id="Caminho_771" data-name="Caminho 771" d="M37.489,14.926A14.959,14.959,0,0,0,57.394,7.76" transform="translate(404 199)" fill="none" stroke="#ffbf00" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    <g id="Grupo_1319" data-name="Grupo 1319" transform="translate(404 199)">
+      <g id="Grupo_1318" data-name="Grupo 1318" clip-path="url(#clip-path)">
+        <rect id="Retângulo_481" data-name="Retângulo 481" width="28.32" height="34.32" transform="translate(5.76 9.12)" fill="url(#pattern)"/>
+      </g>
+    </g>
+    <rect id="Retângulo_483" data-name="Retângulo 483" width="28.32" height="34.32" transform="translate(409.76 208.12)" fill="none"/>
+    <g id="Grupo_1326" data-name="Grupo 1326" transform="translate(404 199)">
+      <g id="Grupo_1325" data-name="Grupo 1325" clip-path="url(#clip-path-2)">
+        <rect id="Retângulo_485" data-name="Retângulo 485" width="29.361" height="23.45" transform="translate(7.853 40.538) rotate(-89.054)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Grupo_1328" data-name="Grupo 1328" transform="translate(404 199)">
+      <g id="Grupo_1327" data-name="Grupo 1327" clip-path="url(#clip-path-3)">
+        <rect id="Retângulo_486" data-name="Retângulo 486" width="30.96" height="34.56" transform="translate(3.12 4.8)" fill="url(#pattern-2)"/>
+      </g>
+    </g>
+    <rect id="Retângulo_488" data-name="Retângulo 488" width="30.96" height="34.56" transform="translate(407.12 203.8)" fill="none"/>
+    <path id="Caminho_773" data-name="Caminho 773" d="M19.035,7.586l12.241,21.95-1-.474.187,2.55-2.41-.432L27.9,34.117l-2.99-.8-.635,2.8-2.493-1.282L21.2,36.52l-1.1-.442L5.794,16.413Z" transform="translate(404 199)" fill="#2e8658"/>
+    <g id="Grupo_1333" data-name="Grupo 1333" transform="translate(404 199)">
+      <g id="Grupo_1332" data-name="Grupo 1332" clip-path="url(#clip-path-4)">
+        <rect id="Retângulo_489" data-name="Retângulo 489" width="22.56" height="20.4" transform="translate(0 0)" fill="url(#pattern-3)"/>
+      </g>
+    </g>
+    <rect id="Retângulo_491" data-name="Retângulo 491" width="22.56" height="20.4" transform="translate(404 199)" fill="none"/>
+    <g id="Grupo_1340" data-name="Grupo 1340" transform="translate(404 199)">
+      <g id="Grupo_1339" data-name="Grupo 1339" clip-path="url(#clip-path-5)">
+        <rect id="Retângulo_493" data-name="Retângulo 493" width="15.339" height="17.482" transform="translate(2.226 17.369) rotate(-89.054)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Grupo_1342" data-name="Grupo 1342" transform="translate(404 199)">
+      <g id="Grupo_1341" data-name="Grupo 1341" clip-path="url(#clip-path-6)">
+        <rect id="Retângulo_494" data-name="Retângulo 494" width="11.059" height="14.804" transform="matrix(0.017, -1, 1, 0.017, 2.29, 13.132)" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <path id="Caminho_776" data-name="Caminho 776" d="M31.3,37.569l.005,2.1a.727.727,0,0,1-1.008.673L28.278,39.5A3.722,3.722,0,0,0,31.3,37.569" transform="translate(404 199)" fill="#662f80"/>
+    <g id="Grupo_1346" data-name="Grupo 1346" transform="translate(404 199)">
+      <g id="Grupo_1345" data-name="Grupo 1345" clip-path="url(#clip-path-7)">
+        <rect id="Retângulo_496" data-name="Retângulo 496" width="11.387" height="14.94" transform="translate(6.309 19.937) rotate(-89.054)" fill="url(#linear-gradient-4)"/>
+      </g>
+    </g>
+    <path id="Caminho_778" data-name="Caminho 778" d="M15.771,17.2a20.542,20.542,0,0,0,2.918-2.278l9.36,16.261L27.9,34.117l-2.99-.8-.432,1.906L12.787,18.812A20.834,20.834,0,0,0,15.771,17.2" transform="translate(404 199)" fill="#3fb1bb"/>
+    <g id="Grupo_1350" data-name="Grupo 1350" transform="translate(404 199)">
+      <g id="Grupo_1349" data-name="Grupo 1349" clip-path="url(#clip-path-8)">
+        <rect id="Retângulo_498" data-name="Retângulo 498" width="9.12" height="13.608" transform="matrix(0.017, -1, 1, 0.017, 7.115, 18.969)" fill="url(#linear-gradient-5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

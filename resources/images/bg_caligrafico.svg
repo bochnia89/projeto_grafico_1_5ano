@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8" height="51" viewBox="0 0 8 51">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_894" data-name="Retângulo 894" width="8" height="51" transform="translate(1058 243)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_1083" data-name="Caminho 1083" d="M0,0H198.425V-51.024H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bg_caligrafico" transform="translate(-1058 -243)" clip-path="url(#clip-path)">
+    <g id="Grupo_2046" data-name="Grupo 2046" transform="translate(1057.787 294.048)">
+      <path id="Caminho_1079" data-name="Caminho 1079" d="M0-.064H198.425v-49.96H0Z" fill="#fff3ea"/>
+      <path id="Caminho_1080" data-name="Caminho 1080" d="M0-19.343H198.425V-32.705H0Z" fill="#ffddc9"/>
+      <g id="Grupo_2045" data-name="Grupo 2045" clip-path="url(#clip-path-2)">
+        <g id="Grupo_2043" data-name="Grupo 2043" transform="translate(467.716 -50.523)">
+          <path id="Caminho_1081" data-name="Caminho 1081" d="M0,0H-467.716" fill="none" stroke="#ffaf80" stroke-width="1"/>
+        </g>
+        <g id="Grupo_2044" data-name="Grupo 2044" transform="translate(0 -0.5)">
+          <path id="Caminho_1082" data-name="Caminho 1082" d="M0,0H467.716" fill="none" stroke="#ffaf80" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

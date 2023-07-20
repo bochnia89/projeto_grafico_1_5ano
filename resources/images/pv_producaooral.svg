@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.142" height="45.646" viewBox="0 0 59.142 45.646">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_696" data-name="Retângulo 696" width="45.84" height="37.2" transform="translate(4.341 0)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 47 38">
+      <image width="47" height="38" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+  </defs>
+  <g id="pv_producaooral" transform="translate(-490.185 -903)">
+    <path id="Caminho_874" data-name="Caminho 874" d="M40.534,26.068a21.612,21.612,0,0,1-30.126,5.15" transform="translate(494.285 903)" fill="none" stroke="#ffbf00" stroke-linecap="round" stroke-linejoin="round" stroke-width="20.815"/>
+    <rect id="Retângulo_693" data-name="Retângulo 693" width="18.785" height="31.744" rx="9.393" transform="translate(528.36 914.082)" fill="#df293e"/>
+    <g id="Grupo_1672" data-name="Grupo 1672" transform="translate(494.285 903)" opacity="0.75" style="mix-blend-mode: multiply;isolation: isolate">
+      <g id="Grupo_1671" data-name="Grupo 1671">
+        <g id="Grupo_1670" data-name="Grupo 1670" clip-path="url(#clip-path)">
+          <g id="Grupo_1669" data-name="Grupo 1669">
+            <g id="Grupo_1668" data-name="Grupo 1668" clip-path="url(#clip-path)">
+              <rect id="Retângulo_694" data-name="Retângulo 694" width="45.84" height="37.2" transform="translate(4.341 0)" fill="url(#pattern)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Caminho_875" data-name="Caminho 875" d="M46.558,14.06l-.4-1.652A12.057,12.057,0,0,0,31.684,3.464L16.448,7.183A12.086,12.086,0,0,0,7.7,21.8l.4,1.653a12.058,12.058,0,0,0,14.473,8.943s7.308-1.677,12.677-3.106a1.322,1.322,0,0,0,.171.153l6.468,4.4a1.343,1.343,0,0,0,2.083-1.318l-1.047-6.67a11.257,11.257,0,0,0,2.455-3.015,12.172,12.172,0,0,0,1.176-8.778" transform="translate(494.285 903)" fill="#3fb1bb"/>
+  </g>
+</svg>

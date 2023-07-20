@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.643" height="38.643" viewBox="0 0 38.643 38.643">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_1069" data-name="Caminho 1069" d="M0,0H38.643V-38.643H0Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_1071" data-name="Caminho 1071" d="M16.338-30.862a7.465,7.465,0,0,0-3.669,2.3H11.036l-.151,0h0l-1.04.063a2.229,2.229,0,0,0-2.1,1.47h0a9.342,9.342,0,0,0-.485,2.974h0c-.06,3.26.053,5.548,1.63,6.1h0a9.945,9.945,0,0,0,4.26.492h0a2.816,2.816,0,0,0,.362.4h0a26.677,26.677,0,0,0,3.644,2.281h0c2.518,1.452.445,4.059.385,5.008h0a1.913,1.913,0,0,0,1.689,2.281h0c1.457.179,5.6-.3,3.161-7.146h0l.007-.009h0c4.37.616,8.352.057,8.462-1.806h0c.057-.967-.405-1.347-1.126-1.763h0a2.35,2.35,0,0,0,1.716-1.97h0a2.234,2.234,0,0,0-1.489-1.868h0a2.237,2.237,0,0,0,1.489-1.87h0c0-.909-.827-1.695-2.036-2.086h0a2.092,2.092,0,0,0,1.71-2.036h0c0-1.2-1.11-2.235-2.965-2.38h0a4.03,4.03,0,0,1-.779-.133h0A18.479,18.479,0,0,0,24.6-31.1h0a29.833,29.833,0,0,0-3.686-.237h0a20.083,20.083,0,0,0-4.58.475" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.187" y1="0.498" x2="0.814" y2="0.498" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fb67b0"/>
+      <stop offset="0.1" stop-color="#fb68b1"/>
+      <stop offset="0.2" stop-color="#fb69b1"/>
+      <stop offset="0.3" stop-color="#fb6ab2"/>
+      <stop offset="0.4" stop-color="#fb6bb2"/>
+      <stop offset="0.5" stop-color="#fb6cb3"/>
+      <stop offset="0.6" stop-color="#fb6db3"/>
+      <stop offset="0.7" stop-color="#fb6eb4"/>
+      <stop offset="0.8" stop-color="#fb6fb4"/>
+      <stop offset="0.9" stop-color="#fb70b5"/>
+      <stop offset="1" stop-color="#fb71b5"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path id="Caminho_1078" data-name="Caminho 1078" d="M7.2-7.3h24.25V-31.337H7.2Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="pv_avalicao_negativa" transform="translate(0 38.643)">
+    <g id="Grupo_2033" data-name="Grupo 2033" clip-path="url(#clip-path)">
+      <g id="Grupo_2032" data-name="Grupo 2032" transform="translate(19.322)">
+        <path id="Caminho_1068" data-name="Caminho 1068" d="M0,0A19.322,19.322,0,0,0,19.322-19.322,19.321,19.321,0,0,0,0-38.643,19.321,19.321,0,0,0-19.322-19.322,19.322,19.322,0,0,0,0,0" fill="#ffdf83"/>
+      </g>
+    </g>
+    <g id="Grupo_2035" data-name="Grupo 2035" clip-path="url(#clip-path-2)">
+      <g id="Grupo_2034" data-name="Grupo 2034" transform="translate(7.244 -19.397)">
+        <path id="Caminho_1070" data-name="Caminho 1070" d="M-7.244-19.246H31.4V19.4H-7.244Z" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Grupo_2042" data-name="Grupo 2042" clip-path="url(#clip-path-3)">
+      <g id="Grupo_2036" data-name="Grupo 2036" transform="translate(11.988 -28.439)">
+        <path id="Caminho_1072" data-name="Caminho 1072" d="M0,0A6.311,6.311,0,0,0,.54,4.174a.505.505,0,0,0,.684.179A.509.509,0,0,0,1.4,3.669,5.2,5.2,0,0,1,.964.266.512.512,0,0,0,.615-.349.5.5,0,0,0,0,0" fill="#e63f94"/>
+      </g>
+      <g id="Grupo_2037" data-name="Grupo 2037" transform="translate(12.653 -22.917)">
+        <path id="Caminho_1073" data-name="Caminho 1073" d="M0,0C-1.409,1.332-1.377,3.612-.6,5.261a.5.5,0,0,0,.684.179.51.51,0,0,0,.179-.684A3.638,3.638,0,0,1,.707.707C1.176.264.468-.442,0,0" fill="#e63f94"/>
+      </g>
+      <g id="Grupo_2038" data-name="Grupo 2038" transform="translate(26.889 -29.843)">
+        <path id="Caminho_1074" data-name="Caminho 1074" d="M0,0A6.808,6.808,0,0,0-3.354-.2a2.26,2.26,0,0,0-1.9,2.1,2.872,2.872,0,0,0,1.562,2.26A5.526,5.526,0,0,0-.9,4.766a9.072,9.072,0,0,0,3.839-.948c.492-.244.055-.941-.437-.7a7.041,7.041,0,0,1-5.294.553A2.449,2.449,0,0,1-4.328,2.218,1.3,1.3,0,0,1-3.318.634,5.584,5.584,0,0,1-.23.778.406.406,0,1,0,0,0" fill="#e63f94"/>
+      </g>
+      <g id="Grupo_2039" data-name="Grupo 2039" transform="translate(23.038 -26.406)">
+        <path id="Caminho_1075" data-name="Caminho 1075" d="M0,0A2.134,2.134,0,0,0-1.692,1.483a2.293,2.293,0,0,0-.087,1.09,2.983,2.983,0,0,0,.557,1.168A4.885,4.885,0,0,0,1.23,5.28a6.789,6.789,0,0,0,2.8.314,7.129,7.129,0,0,0,3.107-1.07A.423.423,0,0,0,6.7,3.8a6.135,6.135,0,0,1-4.609.845A5.791,5.791,0,0,1-.153,3.654,2.412,2.412,0,0,1-.8,2.767a2.131,2.131,0,0,1-.138-.361A1.6,1.6,0,0,1-.933,2,1.358,1.358,0,0,1,.23.809a.42.42,0,0,0,.3-.516A.446.446,0,0,0,0,0" fill="#e63f94"/>
+      </g>
+      <g id="Grupo_2040" data-name="Grupo 2040" transform="translate(23.106 -22.214)">
+        <path id="Caminho_1076" data-name="Caminho 1076" d="M0,0A2.2,2.2,0,0,0-1.294,3.4,4.559,4.559,0,0,0,1.079,4.688a7.714,7.714,0,0,0,2.708.2A8.642,8.642,0,0,0,6.7,4.084c.551-.266.064-1.043-.487-.777a7.279,7.279,0,0,1-4.227.649A5.821,5.821,0,0,1-.145,3.19a1.182,1.182,0,0,1-.6-1.185,1.337,1.337,0,0,1,1-1.137A.453.453,0,1,0,0,0" fill="#e63f94"/>
+      </g>
+      <g id="Grupo_2041" data-name="Grupo 2041" transform="translate(22.94 -18.647)">
+        <path id="Caminho_1077" data-name="Caminho 1077" d="M0,0A2.2,2.2,0,0,0-1.294,3.4,4.559,4.559,0,0,0,1.079,4.688a7.714,7.714,0,0,0,2.708.2A8.642,8.642,0,0,0,6.7,4.084c.551-.266.064-1.043-.487-.777a7.279,7.279,0,0,1-4.227.649A5.821,5.821,0,0,1-.145,3.19a1.182,1.182,0,0,1-.6-1.185,1.337,1.337,0,0,1,1-1.137A.453.453,0,1,0,0,0" fill="#e63f94"/>
+      </g>
+    </g>
+  </g>
+</svg>
